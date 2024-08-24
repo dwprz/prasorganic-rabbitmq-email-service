@@ -6,3 +6,23 @@ skills in software development.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Dependencies and Their Licenses
+
+- Docker: Licensed under the Apache License 2.0. For more information, see the Docker 
+  License (https://github.com/docker/docs/blob/main/LICENSE).
+
+- Docker Compose: Licensed under the Apache License 2.0. For more information, see the 
+  Docker Compose License (https://github.com/docker/compose/blob/main/LICENSE).
+
+- RabbitMQ: Licensed under the Apache License 2.0 and the Mozilla Public License 2, 
+  see the RabbitMQ License (https://github.com/rabbitmq/rabbitmq-server/blob/main/LICENSE)
+
+- GNU Make: Licensed under the GNU General Public License v3.0. For more information, 
+  see the GNU Make License (https://www.gnu.org/licenses/gpl.html).
+
+- GNU Bash: Licensed under the GNU General Public License v3.0. For more information, 
+  see the Bash License (https://www.gnu.org/licenses/gpl-3.0.html).
+
+- Git: Licensed under the GNU General Public License version 2.0. For more information, 
+  see the Git License (https://opensource.org/license/GPL-2.0).
